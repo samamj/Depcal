@@ -1,0 +1,14 @@
+{
+  "name": "Frais de déplacement",
+  "short_name": "Frais",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F2EE",
+  "theme_color": "#3A3D42",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
